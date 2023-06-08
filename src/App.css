@@ -1,0 +1,8 @@
+.header_tag_nav{
+  width: 400px;
+  height: 60px;
+  display: flex;
+}
+.header_tag_nav button{
+  height: 40px;
+}
